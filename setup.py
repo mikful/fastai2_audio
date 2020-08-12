@@ -1,3 +1,4 @@
+pip install packaging
 from packaging.version import parse
 from configparser import ConfigParser
 import setuptools
